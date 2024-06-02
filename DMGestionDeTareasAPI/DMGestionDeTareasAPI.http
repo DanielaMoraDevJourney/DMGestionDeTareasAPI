@@ -1,0 +1,6 @@
+@DMGestionDeTareasAPI_HostAddress = http://localhost:5075
+
+GET {{DMGestionDeTareasAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
